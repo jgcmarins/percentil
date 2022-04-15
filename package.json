@@ -1,0 +1,13 @@
+{
+  "name": "percentil",
+  "version": "0.0.1",
+  "description": "Web App Performance Measurer",
+  "main": "index.js",
+  "repository": "git@github.com:jgcmarins/percentil.git",
+  "author": "João Marins <jgcmarins@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}

@@ -1,2 +1,2 @@
 # percentil
-Web App Performance Measurer
+Web Performance Measurer
